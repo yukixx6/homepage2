@@ -1,0 +1,63 @@
+html {
+    background: #e6e9e9;
+    background-image: linear-gradient(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%);
+    
+}
+body 
+{ background-color: #fff; 
+   
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 4em 4em 4em;}
+h1{background:#fffacd;
+    font-size:4em
+}
+
+h2{font-size:2.5em;
+    padding-left:20px;
+   
+}
+
+h3{font-size: 2em;
+    
+}
+
+ul{font-size:1.3em;
+    padding-bottom: 0px;
+    
+}
+
+a{font-size: 2em;
+    
+}
+
+div.sample1{border-top: solid 10px #dcdcdc;
+    border-bottom: solid 10px #dcdcdc;
+   
+}
+
+a.sample2{
+    font-size:1em;
+}
+
+a.sample3{
+    font-size:0.8em;
+}
+
+div.sample4{padding:10em
+    background: #dcdcdc
+    
+}
+
+div.sample5{
+    
+}
+
+@keyframes colorize {
+    0% {
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+    }
+    100% {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
