@@ -9,7 +9,7 @@ body
     margin: 0 auto;
     max-width: 1000px;
     padding: 4em 4em 4em;}
-h1{background:#fffacd;
+h1{background:#ffdead;
     font-size:4em
 }
 
@@ -31,8 +31,8 @@ a{font-size: 2em;
     
 }
 
-div.sample1{border-top: solid 10px #dcdcdc;
-    border-bottom: solid 10px #dcdcdc;
+div.sample1{border-top: solid 10px #afeeee;
+    border-bottom: solid 10px #afeeee;
    
 }
 
